@@ -4,7 +4,7 @@ Designer for an online furniture store - Everything you need to know about this 
 This application is being developed exclusively for educational purposes, so it can be abandoned at any time.
 
 The main technologies used in the project (will be added as development progresses):
- - JAVA (1.8);
+ - JAVA (17);
  - MAVEN;
  - MySQL;
  - Spring BOOT;
